@@ -1,0 +1,227 @@
+Plant Name,Sunlight,Watering
+Basil,1.0,moist
+Mint,0.5,moist
+Peace Lily,0.0,dry
+Parsley,0.5,moist
+Fern (Boston),0.0,dry
+Bamboo Palm,0.0,regular
+Money Plant,0.0,dry
+Orchids,0.0,regular
+Cilantro,1.0,moist
+Chives,1.0,moist
+Pothos,0.0,dry
+Rubber Plant,0.0,dry
+Fiddle Leaf Fig,0.0,dry
+Sage,1.0,dry
+Geranium,1.0,dry
+Marigold,1.0,dry
+Zinnia,1.0,regular
+Hibiscus,1.0,dry
+Begonia,0.0,moist
+Chrysanthemum,1.0,dry
+Daffodil,1.0,regular
+Sunflower,1.0,regular
+Peony,1.0,regular
+Ivy,0.0,moist
+Nasturtium,1.0,regular
+Petunia,1.0,regular
+Snapdragon,1.0,regular
+Pansy,0.5,moist
+Morning Glory,1.0,regular
+Gerbera Daisy,1.0,regular
+Anemone,0.5,moist
+Crocus,1.0,regular
+Dandelion,1.0,regular
+Foxglove,0.5,regular
+Bluebell,0.5,moist
+Nasturtium,1.0,regular
+Clivia,0.0,regular
+Tulsi (Holy Basil),1.0,moist
+Chrysanthemum,1.0,dry
+Canna Lily,1.0,regular
+Dahlia,1.0,regular
+Bromeliad,0.0,regular
+Iris,1.0,regular
+Lotus Bamboo,0.0,regular
+Hosta,0.5,regular
+Catmint,1.0,regular
+Petunia,1.0,dry
+Pansy,0.5,moist
+Fuchsia,0.0,regular
+Impatiens,0.0,moist
+Begonia,0.0,moist
+Verbena,1.0,regular
+Phlox,1.0,dry
+Hollyhock,1.0,regular
+Sweet Pea,1.0,regular
+Larkspur,0.5,regular
+Bleeding Heart,0.5,moist
+Japanese Anemone,0.5,regular
+Astilbe,0.5,moist
+Columbine,0.5,regular
+Toad Lily,0.5,moist
+Bee Balm,0.5,moist
+Parsley,0.5,moist
+Cilantro,1.0,moist
+Chives,1.0,moist
+Lemon Balm,0.5,regular
+Lemongrass,1.0,regular
+Stevia,0.5,regular
+Chinese Evergreen,0.0,regular
+Peperomia,0.0,regular
+Jade Pothos,0.0,moist
+Swedish Ivy,0.0,regular
+Wandering Jew,0.0,regular
+African Violet,0.0,moist
+Begonia,0.0,regular
+Impatiens,0.0,moist
+Begonia (Outdoor),1.0,regular
+Pansy,1.0,moist
+Geranium,1.0,dry
+Fuchsia,0.5,regular
+Begonia (Indoor),0.0,regular
+Chrysanthemum,1.0,regular
+Bluebell,1.0,regular
+Ageratum,1.0,regular
+Cineraria,0.0,moist
+Heliotrope,1.0,regular
+Phlox,1.0,regular
+Viola,1.0,moist
+Jasmine (Outdoor),1.0,regular
+Snapdragon,1.0,regular
+Bleeding Heart,0.5,moist
+Aster,1.0,regular
+Periwinkle,0.5,regular
+Calendula,1.0,regular
+Alyssum,1.0,regular
+Beggonia (Outdoor),1.0,moist
+Cineraria,0.5,moist
+Tuberose,1.0,moist
+Viola,0.5,moist
+Bromeliad,0.0,dry
+Phlox,1.0,regular
+Alyssum,0.5,moist
+Clematis,0.5,regular
+Pansy,1.0,moist
+Cucumbers,1.0,moist
+Lobelia,0.5,moist
+Hosta,0.0,moist
+Calla Lily,1.0,moist
+Ficus Benjamina,0.0,dry
+Petunia,1.0,moist
+Zucchini,1.0,moist
+Radish,1.0,moist
+Sunflower,1.0,regular
+Cherry Blossom,1.0,moist
+Begonia,0.0,moist
+Hops,1.0,moist
+Cabbage,1.0,moist
+Tomato,1.0,regular
+Wisteria,1.0,moist
+Dandelion,1.0,moist
+Lobelia,0.5,moist
+Chrysanthemum,1.0,regular
+Snapdragon,1.0,regular
+Borage,1.0,moist
+Sweet Pea,1.0,regular
+Fennel,1.0,moist
+Cornflower,1.0,moist
+Bamboo Orchid,0.0,moist
+Bellflower,1.0,regular
+Calendula,1.0,dry
+Catmint,1.0,regular
+Chayote,1.0,regular
+Cherry Blossom,1.0,moist
+Chestnut,1.0,regular
+Green Bean,1.0,regular
+Jackfruit,1.0,regular
+Litchi,1.0,regular
+Lychee,1.0,regular
+Mulberry,1.0,regular
+Brachychiton (Bottle Tree),1.0,moist
+Chestnut,1.0,regular
+Cockscomb (Celosia),1.0,dry
+Coneflower,1.0,regular
+Coreopsis,1.0,regular
+Croton,1.0,moist
+Daffodil,1.0,moist
+Date Palm,1.0,regular
+Devil?s Ivy,0.0,moist
+Dianthus,1.0,moist
+Echinacea,1.0,regular
+Elderberry,1.0,regular
+Fennel,1.0,regular
+Ficus Microcarpa,0.5,regular
+Foxglove,0.5,moist
+Gardenia,1.0,regular
+Grape Vine,1.0,regular
+Guava,1.0,regular
+Hops,1.0,regular
+Jacaranda,1.0,regular
+Jatropha,1.0,regular
+Kalanchoe,1.0,regular
+Kiwi Vine,1.0,regular
+Lavender (French),1.0,regular
+Lemon Balm,1.0,regular
+Lemon Tree,1.0,moist
+Lilac,1.0,regular
+Luffa,1.0,regular
+Magnolia,1.0,moist
+Malva (Mallow),1.0,regular
+Mango,1.0,regular
+Mimosa,1.0,regular
+Morning Glory,1.0,regular
+Moringa,1.0,regular
+Nasturtium,1.0,regular
+Nettle,1.0,regular
+Olive Tree,1.0,regular
+Oregano,1.0,regular
+Passionflower,1.0,regular
+Peony,1.0,regular
+Pepper Plant,1.0,regular
+Periwinkle,1.0,regular
+Phlox,1.0,regular
+Pomegranate,1.0,regular
+Potato Vine,1.0,regular
+Pothos (Golden Pathos),0.0,moist
+Protea,1.0,regular
+Purslane,1.0,regular
+Quince,1.0,regular
+Red Hot Poker (Kniphofia),1.0,regular
+Red-leafed Maple,0.5,regular
+Rudbeckia,1.0,regular
+Sage,1.0,regular
+Salvia,1.0,regular
+Snowdrop,1.0,moist
+Spider Flower,1.0,regular
+Star Jasmine,1.0,regular
+Strawberry Plant,1.0,regular
+Sweet Basil,1.0,regular
+Sweet Potato Vine,1.0,regular
+Thyme,1.0,regular
+Tiger Lily,1.0,regular
+Tuberose,1.0,regular
+Verbena,1.0,regular
+Dandelion,1.0,moist
+Galangal,0.5,moist
+Hummingbird Sage,1.0,regular
+Japanese Maple,0.5,moist
+Lemon Grass,1.0,moist
+Lilac Bush,1.0,moist
+Nandina (Heavenly Bamboo),0.5,regular
+Peepal Tree,1.0,moist
+Quaking Aspen,1.0,moist
+Red Maple,1.0,moist
+River Birch,1.0,moist
+Sago Palm,1.0,regular
+Sedge,0.5,regular
+Stevia,1.0,moist
+Sugarcane,1.0,regular
+Tuberose (Polianthes),1.0,moist
+Achillea (Yarrow),1.0,dry
+Angelonia,1.0,moist
+Carob Tree,1.0,dry
+Catmint,1.0,moist
+Clematis,0.5,moist
+Engelmann Spruce,1.0,dry
+Lavender (English),1.0,dry
